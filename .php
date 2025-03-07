@@ -71,10 +71,10 @@
             <h2>About Our Dairy</h2>
             <p>We provide the highest quality milk, sourced from organic farms. Our services include doorstep delivery, fresh dairy products, and a commitment to health and hygiene.</p>
             <ul>
-                <li>🥛 100% Pure and Fresh Milk</li>
-                <li>📦 Daily Delivery Service</li>
-                <li>🧼 Hygienic and Quality Assurance</li>
-                <li>🌱 Sourced from Healthy Cows</li>
+                <li>100% Pure and Fresh Milk</li>
+                <li> Daily Delivery Service</li>
+                <li>Hygienic and Quality Assurance</li>
+                <li>Sourced from Healthy Cows</li>
             </ul>
         </div>
     </div>
@@ -96,9 +96,9 @@
                         <div class="mb-3">
                             <label class="form-label">Milk Type:</label>
                             <select name="milk_type" class="form-control">
-                                <option value="Full Cream Milk">🥛 Full Cream Milk</option>
-                                <option value="Toned Milk">🥛 Toned Milk</option>
-                                <option value="Skimmed Milk">🥛 Skimmed Milk</option>
+                                <option value="Full Cream Milk"> Full Cream Milk</option>
+                                <option value="Toned Milk"> Toned Milk</option>
+                                <option value="Skimmed Milk"> Skimmed Milk</option>
                             </select>
                         </div>
                         <div class="mb-3">
